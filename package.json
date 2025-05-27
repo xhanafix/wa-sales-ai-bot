@@ -1,0 +1,34 @@
+{
+  "name": "wa-sales-ai-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot yang menggunakan OpenRouter API untuk berfungsi sebagai wakil jualan AI",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tredecillion-Team/gemma-wa-bot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "sales",
+    "ai",
+    "openrouter",
+    "crm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tredecillion-Team/gemma-wa-bot/issues"
+  },
+  "homepage": "https://github.com/Tredecillion-Team/gemma-wa-bot#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}

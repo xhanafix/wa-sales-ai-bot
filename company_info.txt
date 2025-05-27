@@ -1,0 +1,58 @@
+# COMPANY INFORMATION
+COMPANY_NAME: Your Company Name
+OFFICE_LOCATION: 123 Jalan Example, Kuala Lumpur, Malaysia
+PHONE_NUMBER: +60 12-345 6789
+EMAIL: contact@yourcompany.com
+BUSINESS_HOURS: Monday - Friday, 9:00 AM - 6:00 PM
+
+# PAYMENT INFORMATION
+PAYMENT_METHODS:
+- Bank Transfer
+- QR Code Payment
+- Cash on Delivery
+
+# PRODUCTS
+[SMARTPHONE]
+NAME: TechPhone Pro
+PRICE: RM 3,999
+FEATURES:
+- 6.7-inch Display
+- 256GB Storage
+- 12GB RAM
+- 5G Connectivity
+- 48MP Camera
+DESCRIPTION: Flagship smartphone with cutting-edge technology and premium features.
+
+[LAPTOP]
+NAME: UltraBook Pro
+PRICE: RM 5,999
+FEATURES:
+- 15.6-inch 4K Display
+- 1TB SSD
+- 16GB RAM
+- Intel i7 Processor
+- NVIDIA RTX Graphics
+DESCRIPTION: High-performance laptop for professionals and gamers.
+
+[ACCESSORIES]
+NAME: Wireless Earbuds
+PRICE: RM 299
+FEATURES:
+- Active Noise Cancellation
+- 24-hour Battery Life
+- Water Resistant
+- Touch Controls
+DESCRIPTION: Premium wireless earbuds with superior sound quality.
+
+# SHIPPING INFORMATION
+SHIPPING_METHODS:
+- Standard Delivery (2-3 business days)
+- Express Delivery (1 business day)
+SHIPPING_FEE: RM 15 (Standard), RM 30 (Express)
+
+# RETURN POLICY
+RETURN_DAYS: 14 days
+CONDITIONS:
+- Product must be in original condition
+- Original packaging required
+- Proof of purchase needed 
